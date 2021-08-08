@@ -1,0 +1,104 @@
+*{
+  box-sizing: border-box;   
+   margin: 2%;
+   padding: 0;
+    background-color: black;
+}
+
+body{
+  color:white;
+  background-color: black;
+  
+}
+
+.navbar-var{
+    color:white;
+}
+.container-fluid{
+  margin: 0;
+  padding:0;
+
+}
+.navbar{
+  margin:0;
+  padding:0;
+  background-color: black;
+}
+
+
+#link{
+  color:white;
+}
+
+/* login/register  */
+
+#b-c{
+color:white;
+border-style: none;
+border-color: white;
+}
+
+.fondo{
+  display: flex;
+  align-items: center;
+
+}
+
+
+.carousel-inner{
+  margin: 0;
+  width: 75%;
+  margin-left: 10%;
+}
+
+/* musica-tracks contenedores  */
+#d-m{
+
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  border-color: black;
+  color:white;
+}
+.tituloEp{
+  border-color:black;
+  background-color:black;
+}
+
+
+
+/* contacto */
+#enviodatos{
+  color:white;
+
+}
+#restablecer{
+  color:white;
+}
+
+input,textarea{
+  color:white;
+}
+
+.listaPremiere{
+
+  list-style:none;
+}
+#premieres{
+  margin-left: 45%;
+}
+
+#podcasts{
+  margin-left: 45%;
+}
+.listaPodcasts{
+
+  list-style:none;
+}
+
+
+/* Registro */
+
+#exampleFormControlInput1{
+width: 60%;
+}
